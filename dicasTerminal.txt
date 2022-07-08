@@ -1,0 +1,30 @@
+Uma das coisas que tenho sofrido bastante ao ingressar neste mundo de TI é a quantidade de conteúdo explicativo relacionado apenas ao Windows. 
+Tudo que tenho dúvida levo bastante tempo até achar exatamente o que procuro que funcione no comando em um MAC.
+Listo a seguir os comandos facilitadores via Terminal no MAC. 
+Ls 
+Nada mais é do que abrir uma lista de arquivos que existem no seu computador;
+Cd .. 
+Atenção que para o comando funcionar você
+precisa colocar as letras cd seguido de um espaço e então os dois pontos. Esse comando te permite ir a um diretório acima do que se encontra. Se você bugou, deixa eu te explicar. Se você
+Estive na pasta do seu pc exemplo o meu rapha$ e você der esse comando, você vai para uma pasta acima, no caso seria aberta a pastar users ou usuários e nela se você der o comando ls, vai aparecer dentro a pasta do seu usuário, no meu aparece rapha$;
+Cd esse comando apenas vai ter mandar pro diretório utilizado que seria o meu rapha$. Sua pasta principal com o nome do seu usuário.
+Pwd Este comando faz com o caminho do diretório usado seja exibido no Terminal.Exemplo Users/rapha
+mkdir nome do arquivo que deseja criar use o comando mkdir seguido do nome que você quer criar o seu arquivo e pressione enter;
+ rmdir nome do arquivo esse comando faz com que o arquivo vazio seja removido *******
+Echo nomeArquivo > nome.extensao Troque o nome 
+Apertar Ctrl L ou escrever o comando clear apaga toda aquela bagunça que fica no terminal sem nenhuma alteração. Isso facilita muito a visibilidade e tirar aquela poluição toda;
+Seta para cima vai exibir os últimos comandos dados via terminal para lhe poupar de ficar digitando e nesse aprendizado te ajuda a relembrar tudo que você saiu fazendo que nem louco por 	que quis testar;
+History é um comando que faz a mesma coisa que o anterior porém em forma de listagem para melhor visualização;
+Pico abre um simples editor de texto e para sair dele basta teclar control x  você volta pra onde estava;
+defaults write com.apple.screencapture type extensão-arquivo este comando imenso serve para voce alterar a extensão dos arquivos de captura de tela. No geral, os prints do Mac são salvos no formato PNG, mas você pode mudar isso. Basta trocar o “extensão-arquivo” pela extensão do tipo de arquivo que quer as fotos sejam salvas. Coloque apenas as três letras da extensão, como JPG ou PDF, dependendo do que quiser usar;
+caffeinate
+Este comando serve para impedir que o Mac entre em modo de hibernação ou suspensão ao não ser usado por algum tempo;
+Cal vai te mostrar o calendário do Mac;
+Bc -l
+Esse comando é uma calculadora rápida. Digite o comando seguido de enter e já pode fazer seus cálculos. Exemplo: 10+2 ENTER e terá a resposta;
+
+
+
+
+
+ 
